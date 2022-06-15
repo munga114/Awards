@@ -1,7 +1,7 @@
 ## The P-Hub
 
 ## Author
-Abishag Maitha
+Mungai Mbugua
 
 ## Description
 This application allows a user to post a project  and get it reviewed by his/her peers.
