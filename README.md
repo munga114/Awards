@@ -59,4 +59,3 @@ Username:
 Password: 
 
 ## Live Link
-https://the-phub.herokuapp.com/
