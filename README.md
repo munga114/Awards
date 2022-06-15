@@ -4,7 +4,7 @@
 Mungai Mbugua
 
 ## Description
-This application allows a user to post a project for it to br reviewed by his/her peers.
+This application allows a user to post a project for it to be reviewed by his/her peers.
 
 A user will be able to:
 
