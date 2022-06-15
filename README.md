@@ -29,9 +29,6 @@ Access API endpoints
 * PostgreSQL
 * rest_framework
 
-## MIT LICENSE
-
-
 ## Author's Information
 Email: mungai.mbugua@student.moringaschool.com
 Contact: 0797950827
