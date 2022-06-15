@@ -16,7 +16,7 @@ Edit your profile
 Access API endpoints
 
 ## Project setup instructions
-* Clone the Repo from my github account: https://github.com/Abishag-Maitha/The-P-Hub.git
+* Clone the Repo from my github account: 
 * Clone the all files to your local environment
 * Install Django and virtual environment. Activate the virtual envorinment
 * Install PostgreSQL
