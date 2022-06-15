@@ -58,9 +58,5 @@ Contact: 0797950827
 Username: 
 Password: 
 
-## API Endpoints
-* https://the-phub.herokuapp.com/api/profile -To get all the user profiles
-* https://the-phub.herokuapp.com/api/projects -To access all projects posted in The P-hub
-
 ## Live Link
 https://the-phub.herokuapp.com/
