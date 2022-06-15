@@ -1,4 +1,4 @@
-## The P-Hub
+## ThEE-AWARDS
 
 ## Author
 Mungai Mbugua
