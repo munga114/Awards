@@ -55,8 +55,8 @@ Email: mungai.mbugua@student.moringaschool.com
 Contact: 0797950827
 
 ## Super User Credentials
-Username: Abishag
-Password: pendo123
+Username: 
+Password: 
 
 ## API Endpoints
 * https://the-phub.herokuapp.com/api/profile -To get all the user profiles
