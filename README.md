@@ -16,7 +16,7 @@ Edit your profile
 Access API endpoints
 
 ## Project setup instructions
-* Clone the Repo from my github account: 
+* Clone the Repo from my github account: https://github.com/munga114/Awards
 * Clone the all files to your local environment
 * Install Django and virtual environment. Activate the virtual envorinment
 * Install PostgreSQL
