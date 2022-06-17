@@ -1,4 +1,4 @@
-## ThEE-AWARDS
+## THEE-AWARDS
 
 ## Author
 Mungai Mbugua
