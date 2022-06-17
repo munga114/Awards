@@ -34,7 +34,7 @@ Email: mungai.mbugua@student.moringaschool.com
 Contact: 0797950827
 
 ## Super User Credentials
-Username: mkaburu
-Password: QM2Tr87jQQshRzd
+Username: biggy
+Password: houston14
 
 ## Live Link
